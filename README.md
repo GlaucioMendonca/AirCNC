@@ -10,4 +10,7 @@ O back-end da aplicação é uma api REST desenvolvido em **Node js** com o fram
 ### Front-end
 No front empregamos a tecnologia **React js** acompanhado do **socket.io-cli** para real-time.
 
+### Mobile
+Desenvolvido em **React Native**.
+
 ![wallpaper semana omnistack](omnistack-wallpaper-1920x1080.png)
